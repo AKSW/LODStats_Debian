@@ -1,0 +1,1 @@
+sqlalchemyUrl = "postgresql://lodstats:lodstats@localhost/lodstats"

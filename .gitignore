@@ -1,0 +1,7 @@
+LodstatsDebian/cache
+LodstatsDebian/package-cache
+LodstatsDebian/dataset-meta
+LodstatsDebian/datasets
+LodstatsDebian/application.log
+*.pyc
+LodstatsDebian/cfg.py
