@@ -1,6 +1,6 @@
 import re
 import subprocess
-from LogConfig import logger
+from log import logger
 
 class RDF2RDF(object):
     def __init__(self):

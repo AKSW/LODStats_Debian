@@ -1,7 +1,7 @@
 import datetime
 from MLStripper import strip_tags
 
-from LogConfig import logger
+from log import logger
 
 class CkanDebianConfig(object):
     def __init__(self, package, resource):

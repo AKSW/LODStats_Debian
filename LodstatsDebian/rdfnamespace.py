@@ -1,5 +1,5 @@
 import RDF
-from LogConfig import logger
+from log import logger
 
 class RDFNamespaces(object):
     namespaces = {
